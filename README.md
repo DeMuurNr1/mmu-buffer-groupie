@@ -10,3 +10,4 @@ lanes*4        xxxxx bearings
 Lanes+1       98x400x2mm plastic windows
 lanes*2        6x3 round magnets
 lanes*2         ECAS fitting
+Lanes          M5x12 bulb socket head
